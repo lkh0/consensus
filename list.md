@@ -1,4 +1,5 @@
 ** raft implementation **
+Raft's initial description (by Diego Ongaro and John Ousterhout (1)) is not byzantine fault-tolerant.
 *** 
 
 https://github.com/etcd-io/etcd/tree/master/raft <br>
